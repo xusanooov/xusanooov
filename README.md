@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xusanooov (Zokir Xusanoov)
+- 👋 Hi, I’m Zokir Xusanoov
 - 👀 I am interested in football and programming.
 - 🌱 I’m currently learning programming
 - ✨ I’m looking to collaborate on top companies 
